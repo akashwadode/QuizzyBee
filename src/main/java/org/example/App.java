@@ -11,7 +11,7 @@ public class App extends Application {
         Label label = new Label("Hello, JavaFX!");
         Scene scene = new Scene(label, 300, 200);
         stage.setScene(scene);
-        stage.setTitle("QuizzyBee");
+        stage.setTitle("QuizzyBee 1");
         stage.show();
     }
 
